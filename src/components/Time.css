@@ -1,0 +1,10 @@
+.time-app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 420px;
+    min-height: 450px;
+    text-align: center;
+    border-radius: 10px;
+    opacity: 0.8;
+}
